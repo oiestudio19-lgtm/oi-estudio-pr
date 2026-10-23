@@ -1,0 +1,13 @@
+OI ESTUDIO PRO — protótipo inicial
+
+Inclui uma interface responsiva em português, com visual preto e dourado:
+Painel, arquivo (índice de links), clientes, projectos, financeiro, equipa, equipamentos e tarefas.
+
+IMPORTANTE: esta é apenas uma demonstração local. Os registos ficam no localStorage do navegador deste dispositivo. Não existe autenticação real, partilha entre colaboradores, armazenamento na nuvem, sincronização ou backup. Não introduza dados pessoais sensíveis nem use esta versão como sistema oficial.
+
+Para testar:
+1. Extraia o ZIP no telemóvel.
+2. Abra index.html num navegador compatível ou publique os ficheiros num alojamento estático.
+3. Os registos serão locais ao navegador/dispositivo.
+
+Para produção, será necessário desenvolver backend e base de dados, login seguro, permissões por função, armazenamento privado na nuvem, backups, logs de actividade e publicação com HTTPS.
